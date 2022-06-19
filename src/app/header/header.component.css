@@ -1,0 +1,27 @@
+*{
+  background-color: silver;
+  width: 100%;
+  color: grey;
+  padding-bottom: 0.5px;
+}
+h1{
+  margin: 20px;
+}
+/* id */
+
+img{
+  width: 15em;
+  margin: 20px;
+}
+@media  all and (max-width: 1400px) {
+  img{
+  width: 10em;
+  margin: 20px;
+}
+}
+@media  all and (max-width: 1400px) {
+ img{
+  width: 5rem;
+  margin: 20px;
+}
+}
